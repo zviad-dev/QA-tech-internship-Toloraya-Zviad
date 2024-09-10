@@ -119,6 +119,8 @@
 
 [Баг-репорт](https://github.com/zviad-dev/QA-tech-internship-Toloraya-Zviad/blob/master/BUGS.md "Баг-репорт") 
 
+[Код](https://github.com/zviad-dev/QA-tech-internship-Toloraya-Zviad/tree/master/Avito%20API "Код") 
+
 ## Инструкция по запуску кода
 
 1. Склонируйте к себе репозиторий, в котором хранится проект тестового задания, через выполнение команды в терминале
