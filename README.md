@@ -114,19 +114,12 @@
 Вариант 1. Составьте тест кейсы для проверки api описанного ниже микросервиса. Автоматизируйте написанные тест кейсы, где необходимо проверить результат (Все тесты должны быть пройдены)
 
 ## Ответ
-Ответ
 
+[Тест-кейсы](https://github.com/zviad-dev/QA-tech-internship-Toloraya-Zviad/blob/master/TESTCASES.md "Тест-кейсы") 
 
-## Задание 1
+[Баг-репорт](https://github.com/zviad-dev/QA-tech-internship-Toloraya-Zviad/blob/master/BUGS.md "Баг-репорт") 
 
-Перед вами скриншот страницы Авито с результатами поиска авто. Изучите скриншот, перечислите все имеющиеся баги, изображенные на нем, и укажите их приоритет (high, medium, low).
-
-## Ответ
-
-[Тест-кейсы](https://github.com/zviad-dev/QA-tech-internship-Toloraya-Zviad/tree/master/Avito API "Тест-кейсы") 
-[Баг-репорт](https://github.com/zviad-dev/QA-tech-internship-Toloraya-Zviad/tree/master/Avito API "Баг-репорт") 
-
-## Инструкция
+## Инструкция по запуску кода
 
 1. Склонируйте к себе репозиторий, в котором хранится проект тестового задания, через выполнение команды в терминале
     ```
